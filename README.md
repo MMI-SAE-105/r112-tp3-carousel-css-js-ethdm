@@ -1,6 +1,6 @@
-- nom :
-- prénom :
-- URL Netlify :
+- nom : Hennequin De Meyer
+- prénom : Ethan
+- URL Netlify : https://celebrated-bombolone-cefc4d.netlify.app/
 
 # Travail
 
